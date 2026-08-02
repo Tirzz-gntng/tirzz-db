@@ -1,3 +1,14 @@
 {
-  "products": []
+  "products": [
+    {
+      "id": "p_1785664908311_zm0v4",
+      "name": "SC Bot auto order",
+      "price": "5.000",
+      "description": "",
+      "image": "https://files.catbox.moe/cai44q.png",
+      "link": "https://t.me/sanz009",
+      "createdAt": "2026-08-02T10:01:48.312Z",
+      "createdBy": "Sanz"
+    }
+  ]
 }
