@@ -1,3 +1,14 @@
 {
-  "products": []
+  "products": [
+    {
+      "id": "p_1785664856541_indc1",
+      "name": "Bot auto order",
+      "price": "5.000",
+      "description": "",
+      "image": "https://files.catbox.moe/cai44q.png",
+      "link": "sanz009",
+      "createdAt": "2026-08-02T10:00:56.541Z",
+      "createdBy": "Sanz"
+    }
+  ]
 }
