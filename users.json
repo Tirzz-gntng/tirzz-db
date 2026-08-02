@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "username": "Tirzz",
+      "salt": "6f87a329e55d797bb35220ff28dd7e94",
+      "hash": "b09b6f1c419d9f9ef40cc9d42e9d7668153d881169643ed4214dc89954209609",
+      "createdAt": "2026-08-02T02:49:49.083Z"
+    }
+  ]
+}
