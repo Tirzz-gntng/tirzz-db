@@ -9,7 +9,8 @@
       "avatar": "https://files.catbox.moe/aa7mh5.png",
       "followers": [],
       "following": [
-        "ZA4YOU"
+        "ZA4YOU",
+        "ZA4YOU1"
       ]
     },
     {
@@ -31,7 +32,9 @@
       "createdAt": "2026-08-02T04:22:30.020Z",
       "bio": "",
       "avatar": "",
-      "followers": [],
+      "followers": [
+        "Tirzz"
+      ],
       "following": []
     }
   ]
