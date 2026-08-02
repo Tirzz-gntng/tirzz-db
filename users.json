@@ -8,7 +8,9 @@
       "bio": "jembut",
       "avatar": "https://files.catbox.moe/aa7mh5.png",
       "followers": [],
-      "following": []
+      "following": [
+        "ZA4YOU"
+      ]
     },
     {
       "username": "ZA4YOU",
@@ -17,7 +19,9 @@
       "createdAt": "2026-08-02T04:20:37.286Z",
       "bio": "",
       "avatar": "",
-      "followers": [],
+      "followers": [
+        "Tirzz"
+      ],
       "following": []
     },
     {
