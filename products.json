@@ -1,14 +1,3 @@
 {
-  "products": [
-    {
-      "id": "p_1785652141452_st2y4",
-      "name": "Sc Auto order no enc",
-      "price": "15.000",
-      "description": "sc auto order no enc button kece",
-      "image": "https://files.catbox.moe/q474x6.jpg",
-      "link": "https://t.me/tirzzclone",
-      "createdAt": "2026-08-02T06:29:01.452Z",
-      "createdBy": "Tirzz"
-    }
-  ]
+  "products": []
 }
