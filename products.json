@@ -1,14 +1,3 @@
 {
-  "products": [
-    {
-      "id": "p_1785664968502_ilfan",
-      "name": "Sc Bot Auto Order",
-      "price": "5.000",
-      "description": "",
-      "image": "https://files.catbox.moe/cai44q.png",
-      "link": "",
-      "createdAt": "2026-08-02T10:02:48.502Z",
-      "createdBy": "Sanz"
-    }
-  ]
+  "products": []
 }
