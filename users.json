@@ -179,6 +179,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "cantika",
+      "salt": "b0f01c16e15fa400b0a3a490793700d2",
+      "hash": "7488a7a09480b2a326ebfdfc9d18aa9642bf87b0f8fcf8590e0af4187c36af26",
+      "createdAt": "2026-08-03T16:43:50.045Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
