@@ -79,6 +79,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "LutzzDev",
+      "salt": "5eaac943eb8fc2dcbd209d577f011d71",
+      "hash": "c7523275a0f8baa0c0192d892597e9208ed1e43db55d4e6adf2d8e22210b5c81",
+      "createdAt": "2026-08-03T08:01:54.710Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
