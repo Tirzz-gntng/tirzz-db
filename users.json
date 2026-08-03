@@ -189,6 +189,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "raka_user",
+      "salt": "2d3e10140712073e3566fec5bfd18284",
+      "hash": "26299c36c5c5c62943a30271254e145d80c5415e5d233273f972f2a83cdc51a5",
+      "createdAt": "2026-08-03T22:52:32.121Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
