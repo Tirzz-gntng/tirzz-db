@@ -89,6 +89,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "yanz123",
+      "salt": "e20a3b8ab610e5a502dd7b662690f5f6",
+      "hash": "6541863b5d9bbc58397d6e3d9e58fa64983ec53c51242c70cfd5378b85b594b4",
+      "createdAt": "2026-08-03T08:04:22.003Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
