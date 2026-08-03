@@ -69,6 +69,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "nizznotdev",
+      "salt": "8082d426307c73171d284a227fc7f526",
+      "hash": "7547d51bf8dc3afd8fa642985c30a48fd92bf82e9385c3f96b51c207b9036527",
+      "createdAt": "2026-08-03T07:54:41.251Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
