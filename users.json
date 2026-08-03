@@ -119,6 +119,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "Zitalos",
+      "salt": "f437af443d836ab96f7cfb2dd506da14",
+      "hash": "b7953ed704b5114cff2a453631a466ba0a630b2c0aae6e80bc37397b70d0f2d0",
+      "createdAt": "2026-08-03T10:36:26.577Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
