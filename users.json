@@ -59,6 +59,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "Alfian",
+      "salt": "aecd08fea1d313ff424d0b1e7fc1ccde",
+      "hash": "46cb4390fdedc62d90c985cfdec5c8992aee7b999a1be8e41e840bd5bbaed2e4",
+      "createdAt": "2026-08-03T02:59:48.896Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
