@@ -169,6 +169,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "betmen",
+      "salt": "d27ff5209854656261a57f6dc91d9a62",
+      "hash": "f89012114291e3548ab01c49e1410e6f28d09c399d47023d45a71cbeaac3e8cf",
+      "createdAt": "2026-08-03T15:11:10.094Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
