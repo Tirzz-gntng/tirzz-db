@@ -243,6 +243,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "danzz",
+      "salt": "e72eb3af1d6fe16d12b6be9047b5f2a4",
+      "hash": "c964dac6bba0e24093525920a6f883067315c7a494b4e9f0208d528af46bd24a",
+      "createdAt": "2026-08-04T11:36:26.150Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
