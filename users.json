@@ -273,6 +273,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "aldo",
+      "salt": "366063e373ea37af467c0ea87aa354c4",
+      "hash": "bc4fb916ca14627b4c37b4466c520bcd63b80d13be94e7bbd3e00ecde5ff93e3",
+      "createdAt": "2026-08-04T16:49:32.118Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
