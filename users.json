@@ -283,6 +283,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "Wanx",
+      "salt": "7082ab75b9516cf5354d2fa532abeefb",
+      "hash": "395c7cc613a9c0aa842804423d064c88ed940ef1bd0be417f55eded7b6043391",
+      "createdAt": "2026-08-04T16:50:41.439Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
