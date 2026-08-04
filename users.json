@@ -199,6 +199,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "niell_user",
+      "salt": "d4290dd4dad18c8a004ceb0a6136484d",
+      "hash": "874c78f281ab904e6e55cff929eb6ee8f2f59d229d3155817ef647e6aeaa0bff",
+      "createdAt": "2026-08-04T07:26:42.430Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
