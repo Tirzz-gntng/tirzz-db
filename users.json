@@ -263,6 +263,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "elztzy",
+      "salt": "50f69976824bc48fc2628dc14af9668d",
+      "hash": "866d60efde0f56d7b3be1e4d0cdbc0ec5d63de7d6443f6e5cb7b8ee95c29e4e8",
+      "createdAt": "2026-08-04T12:23:47.918Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
