@@ -218,7 +218,9 @@
       "bio": "",
       "avatar": "",
       "followers": [],
-      "following": []
+      "following": [
+        "xenoparkerr"
+      ]
     },
     {
       "username": "xenoparkerr",
@@ -227,7 +229,9 @@
       "createdAt": "2026-08-04T10:44:13.664Z",
       "bio": "",
       "avatar": "",
-      "followers": [],
+      "followers": [
+        "xenoparker"
+      ],
       "following": []
     }
   ]
