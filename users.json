@@ -293,6 +293,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "malz",
+      "salt": "198f717bed05ad25edf4c9553b963b31",
+      "hash": "06d3f5f98b70a1199ce604cb974c0e7bdb183898609396eeb6d433c55cf1704e",
+      "createdAt": "2026-08-05T08:28:32.059Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
