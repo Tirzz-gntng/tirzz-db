@@ -307,6 +307,16 @@
       "following": [
         "Tirzz"
       ]
+    },
+    {
+      "username": "aldo255",
+      "salt": "448482e379b9537df0c2781a3aa3b516",
+      "hash": "fc9a175b09689af08a74beacf1baecbbb51749617761d87a3b9bcf9d2771334f",
+      "createdAt": "2026-08-05T15:18:35.785Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
