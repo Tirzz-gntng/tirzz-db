@@ -347,6 +347,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "Rennn",
+      "salt": "d8345ce83af75935c7bbb961143493e8",
+      "hash": "46152d105338de52c47e464d6642cc979d8d9b145f72cd695e5dd19b0c2c3eb4",
+      "createdAt": "2026-08-06T16:23:31.890Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
