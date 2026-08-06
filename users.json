@@ -317,6 +317,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "hariansiyah",
+      "salt": "7a49771e023327d98c1992b4698a086c",
+      "hash": "99993ae8eb146e6e325ae3dee4e108a6f94f9490a909827322f1338b5cbc101a",
+      "createdAt": "2026-08-06T11:00:06.019Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
