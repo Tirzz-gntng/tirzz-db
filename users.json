@@ -380,6 +380,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "Beaf",
+      "salt": "4a3dbf465f5d9f55b26af8e3c9e33b42",
+      "hash": "3f5afab12a6835b2e67a1bb269c10cc9fa996e21df6ad8ae52043273107e3d60",
+      "createdAt": "2026-08-07T15:38:01.051Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
