@@ -390,6 +390,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "Vinxzz",
+      "salt": "ba8e6d3a5d14ccb3c3f1291f311aacb6",
+      "hash": "f6034454aeb3b79436c25a609a156ac5f1a38579597db518903666501725ded6",
+      "createdAt": "2026-08-07T16:16:08.913Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
