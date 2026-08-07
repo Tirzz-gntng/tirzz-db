@@ -326,7 +326,9 @@
       "createdAt": "2026-08-06T11:00:06.019Z",
       "bio": "",
       "avatar": "",
-      "followers": [],
+      "followers": [
+        "Beaf"
+      ],
       "following": []
     },
     {
@@ -389,7 +391,9 @@
       "bio": "",
       "avatar": "",
       "followers": [],
-      "following": []
+      "following": [
+        "hariansiyah"
+      ]
     },
     {
       "username": "Vinxzz",
