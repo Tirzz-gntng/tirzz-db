@@ -424,6 +424,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "emboh",
+      "salt": "79209934eddedb875fbad5d96464c633",
+      "hash": "27dc901104b15c7f898f919aed2e127346d7f2d5e59f8812534b54d6f5b4128b",
+      "createdAt": "2026-08-08T12:59:11.788Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
