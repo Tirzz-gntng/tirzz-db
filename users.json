@@ -434,6 +434,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "aldo2555",
+      "salt": "5b2adcc427f9f0bb78699b5d3d2fca41",
+      "hash": "74b62ec92c29ab3affd3694d1afa6d2485376b8718668d89c66749d7af860332",
+      "createdAt": "2026-08-08T13:42:43.553Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
