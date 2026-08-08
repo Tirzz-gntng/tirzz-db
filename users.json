@@ -414,6 +414,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "garzxxiterz",
+      "salt": "72dba5c357753dd8f689b86fdaef3d25",
+      "hash": "84a7419946d1e52d45ca57e1d2397f94a66775b466c45583850aead7955f4c0e",
+      "createdAt": "2026-08-08T12:03:14.139Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
