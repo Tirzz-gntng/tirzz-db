@@ -1,3 +1,14 @@
 {
-  "products": []
+  "products": [
+    {
+      "id": "p_1786243420713_i7cso",
+      "name": "Up Ress Sc",
+      "price": "20.000",
+      "description": "dapet all sc",
+      "image": "https://freeimage.host/i/C4uSlhg",
+      "link": "https://t.me/tirzzclone",
+      "createdAt": "2026-08-09T02:43:40.713Z",
+      "createdBy": "admin"
+    }
+  ]
 }
