@@ -474,6 +474,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "ozora",
+      "salt": "d6743dff2807757ac6fe29e817ed0d7f",
+      "hash": "b9a959f256e89ce4c34f3b1b6f1e97b8e91a58e1901a700126b6e69e424b9182",
+      "createdAt": "2026-08-09T11:27:06.215Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
