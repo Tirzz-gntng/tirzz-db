@@ -504,6 +504,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "Kenzz",
+      "salt": "9b8819db61d5980e08deef14c9cefcc2",
+      "hash": "45954fc40583b176054312c9f1cf6c7c46ee16a6d37493127bb9f438d5baf4a5",
+      "createdAt": "2026-08-11T10:24:31.326Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
