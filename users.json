@@ -524,6 +524,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "lentzbro",
+      "salt": "1926a11caa838ea69611007b1129ce34",
+      "hash": "c443fa1e665b78c961a4391c49f464ee652522790683f9e43c419db78def0146",
+      "createdAt": "2026-08-12T21:19:18.490Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
