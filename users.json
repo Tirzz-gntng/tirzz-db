@@ -544,6 +544,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "zezeluck",
+      "salt": "c7079030c407a0bb87243c8d2a2536f3",
+      "hash": "fea6adf6415b7331173e257cb312621130c5ea7d2bd7c4b493a18990121585bc",
+      "createdAt": "2026-08-13T11:15:27.171Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
