@@ -574,6 +574,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "cika",
+      "salt": "f59d8e0e32909dabdabedc3095106a94",
+      "hash": "3606d95117731cf88b272fd637f8516d377304f253c64f95ada8380a2518f349",
+      "createdAt": "2026-08-14T00:09:43.756Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
