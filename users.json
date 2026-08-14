@@ -604,6 +604,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "moyzie",
+      "salt": "0f727ad1a657177565e3fc1f0d5a38df",
+      "hash": "bba24e01eb7f3226fac482a27ea739d7a0efface5c4cf97165683425471762c3",
+      "createdAt": "2026-08-14T12:50:24.588Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
