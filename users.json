@@ -594,6 +594,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "Zzik",
+      "salt": "d037b59b6f3dcbed7bd8b0c1fa6db6b5",
+      "hash": "4796dd7b63a91bbc7b3957081f2c134e1ce6afda1aa7636dd54450dd02b8c882",
+      "createdAt": "2026-08-14T12:21:07.404Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
