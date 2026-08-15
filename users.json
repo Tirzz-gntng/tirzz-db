@@ -634,6 +634,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "arya",
+      "salt": "1559ac89c96a2d15413b945714b7a274",
+      "hash": "94c3b9366bf1acc244eb5ae06c772412a6c63973a74e944d1cdf8258380f5009",
+      "createdAt": "2026-08-15T05:50:10.341Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
