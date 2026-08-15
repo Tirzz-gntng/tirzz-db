@@ -664,6 +664,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "yanz",
+      "salt": "3d6758273b62d44cc1429a330b65a693",
+      "hash": "614dfaa6d66b32a8fd23c1ec4f6b090b92c82166ca2c0c098115d6802f053414",
+      "createdAt": "2026-08-15T14:05:49.883Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
