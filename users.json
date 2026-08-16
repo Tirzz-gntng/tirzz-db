@@ -704,6 +704,16 @@
       "avatar": "",
       "followers": [],
       "following": []
+    },
+    {
+      "username": "Fudzx",
+      "salt": "05fa79ee8587145c066526bbf7b7fb66",
+      "hash": "74ba58a3d0891b1b095e25bb1cc8cbace385febb28149a60159c2df81c8a8855",
+      "createdAt": "2026-08-16T04:55:46.442Z",
+      "bio": "",
+      "avatar": "",
+      "followers": [],
+      "following": []
     }
   ]
 }
